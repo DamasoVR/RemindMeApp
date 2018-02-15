@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1518661723515" clover="3.2.0">
+  <project timestamp="1518661723516" name="All files">
+    <metrics statements="8" coveredstatements="1" conditionals="33" coveredconditionals="0" methods="11" coveredmethods="0" elements="52" coveredelements="1" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2">
+      <file name="TaskScreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\TaskScreen.js">
+        <metrics statements="6" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="2" count="0" type="cond" truecount="0" falsecount="23"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="introscreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\introscreen.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
