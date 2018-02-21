@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1518661723515" clover="3.2.0">
-  <project timestamp="1518661723516" name="All files">
-    <metrics statements="8" coveredstatements="1" conditionals="33" coveredconditionals="0" methods="11" coveredmethods="0" elements="52" coveredelements="1" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2">
-      <file name="TaskScreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\TaskScreen.js">
-        <metrics statements="6" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="10" coveredmethods="0"/>
-        <line num="1" count="0" type="cond" truecount="0" falsecount="8"/>
-        <line num="2" count="0" type="cond" truecount="0" falsecount="23"/>
-        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
-      </file>
-      <file name="introscreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\introscreen.js">
-        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="37" count="0" type="stmt"/>
-        <line num="67" count="1" type="stmt"/>
-      </file>
+<coverage generated="1518745157384" clover="3.2.0">
+  <project timestamp="1518745157387" name="All files">
+    <metrics statements="17" coveredstatements="1" conditionals="58" coveredconditionals="0" methods="18" coveredmethods="0" elements="93" coveredelements="1" complexity="0" loc="17" ncloc="17" packages="2" files="3" classes="3">
+      <package name="src">
+        <metrics statements="9" coveredstatements="0" conditionals="25" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <file name="App.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\App.js">
+          <metrics statements="9" coveredstatements="0" conditionals="25" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="cond" truecount="0" falsecount="23"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.screens">
+        <metrics statements="8" coveredstatements="1" conditionals="33" coveredconditionals="0" methods="11" coveredmethods="0"/>
+        <file name="TaskScreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\TaskScreen.js">
+          <metrics statements="6" coveredstatements="0" conditionals="33" coveredconditionals="0" methods="10" coveredmethods="0"/>
+          <line num="1" count="0" type="cond" truecount="0" falsecount="8"/>
+          <line num="2" count="0" type="cond" truecount="0" falsecount="23"/>
+          <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+        <file name="introscreen.js" path="C:\Users\Usuario\Documents\Sandbox\AwesomeProject-master\src\screens\introscreen.js">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="67" count="1" type="stmt"/>
+        </file>
+      </package>
     </metrics>
   </project>
 </coverage>
