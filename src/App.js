@@ -15,7 +15,6 @@ import IntroScreen from './screens/introscreen';
 import TasksScreen from './screens/TasksScreen';
 //Or Export this
 
-
 const ScreenStack = StackNavigator(
   {
     Home: {
