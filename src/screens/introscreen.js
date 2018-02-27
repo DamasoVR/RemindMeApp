@@ -43,43 +43,23 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     backgroundColor: 'rgb(237,24,74)'
   },
-
   logo: {
-
     width: 285,
-
     height: 75,
-
     marginTop: 140
-
   },
-
   secondaryButton: {
-
     height: 55,
-
     width: 325,
-
     padding: 17,
-
     borderStyle: 'solid',
-
     borderWidth: 2,
-
     borderColor: 'white',
-
     borderRadius: 27
-
   },
-
   buttonText: {
-
     color: 'white',
-
     fontSize: 17,
-
     textAlign: 'center'
-
   }
-
 });

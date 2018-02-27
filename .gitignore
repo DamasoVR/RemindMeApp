@@ -2,6 +2,8 @@
 #
 .DS_Store
 
+jestConfig/
+__tests__/
 coverage/
 # Xcode
 #
